@@ -1,6 +1,6 @@
 # Проектная работа Mesto
-https://github.com/AnnaStarkova01/mesto-project-ff
+https://github.com/anx111/mesto-project-ff
 
 ## Деплой на GitHub Pages
-https://annastarkova01.github.io/mesto-project-ff/
+https://anx111.github.io/mesto-project-ff/
 
