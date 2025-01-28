@@ -69,7 +69,7 @@ export function createCard(cardParams, meId, deleteFunction, likeFunction, openI
 
 // @todo: Функция удаления карточки
 export function deleteCard(event){
-  let card = event.currentTarget.targetElement;
+  const card = event.currentTarget.targetElement;
   let idCard = card.getAttribute('id');
   idCard = idCard.replace(/^card/, '');
 
